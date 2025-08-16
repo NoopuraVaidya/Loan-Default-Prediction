@@ -40,4 +40,15 @@ The dataset includes customer financial and demographic variables such as:
 - CART did not include gender as a predictor, suggesting less bias.  
 - Future work should focus on fairness-aware modeling.  
 
+## IBM SPSS Modeler
+
+This project was also implemented in **IBM SPSS Modeler**, where logistic regression and CART models were run directly on the dataset.  
+Key outputs from SPSS included:
+- Predictor importance charts
+- Logistic regression parameter estimates
+- Confusion matrices
+- CART decision tree splits
+
+SPSS confirmed the results from the Python models and provided visual outputs for easier interpretation.  
+
 ---
