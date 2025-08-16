@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+# Note: This project also used IBM SPSS Modeler for logistic regression and CART.
+# SPSS is not a Python package and must be installed separately.
